@@ -34,6 +34,8 @@
 
 * [Github Live Coding Déploiement dans AWS](https://github.com/alfallouji/LIVE-CODING)
 
+* [Canal Youtube AWS en français](https://www.youtube.com/user/sebsto)
+
 ## Data
 
 * https://www.mongodb.com
