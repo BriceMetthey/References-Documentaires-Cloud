@@ -1,6 +1,6 @@
 # Références documentaires concernant les technologies Cloud
 
-## Architecture Cloud
+## Les solutions d'architectures
 
 * [Docker Compose](https://docs.docker.com/compose/install)
 
@@ -30,6 +30,9 @@
 
 * [Notes en français sur Kubernetes](https://dev.to/aurelievache/kubernetes-sketchnotes-pods-4ib0)
 
+## AWS
+
+* [Github Live Coding Déploiement dans AWS](https://github.com/alfallouji/LIVE-CODING)
 
 ## Data
 
