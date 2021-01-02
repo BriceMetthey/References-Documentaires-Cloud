@@ -36,6 +36,8 @@
 
 * [Canal Youtube AWS en français](https://www.youtube.com/user/sebsto)
 
+* [Canal Youtube sur les containers](https://www.youtube.com/channel/UCYg157Qy_U7ZR1WUHTq0Q8Q)
+
 ## Data
 
 * https://www.mongodb.com
